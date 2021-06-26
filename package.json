@@ -6,7 +6,9 @@
     "dev": "vue-cli-service serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "deploy": "gh-pages -d dist",
+    "lint": "vue-cli-service lint",
+    "ship": "npm run build; npm run deploy"
   },
   "dependencies": {
     "core-js": "^3.6.5",
