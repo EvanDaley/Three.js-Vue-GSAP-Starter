@@ -5,8 +5,7 @@
 ↓
 ↓
 
-NOTE
-I haven't been able to get this working yet on github pages. Do not use this.
+NOTE: This is not complete. Do not use this.
 
 ↑
 ↑
