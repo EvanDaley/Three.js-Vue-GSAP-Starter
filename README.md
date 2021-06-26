@@ -1,13 +1,17 @@
 # Webpack + Vue + Three.JS + GSAP
 
-
-
+↓
+↓
+↓
+↓
 
 NOTE
 I haven't been able to get this working yet on github pages. Do not use this.
 
-
-
+↑
+↑
+↑
+↑
 
 
 
