@@ -1,5 +1,16 @@
 # Webpack + Vue + Three.JS + GSAP
 
+
+
+
+NOTE
+I haven't been able to get this working yet on github pages. Do not use this.
+
+
+
+
+
+
 ## This project is running live on Github Pages
 See the live demo here: [todo]
 
